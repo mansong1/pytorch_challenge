@@ -105,3 +105,7 @@ venv.bak/
 
 # data
 flower_data/
+
+# macOS
+.DS_Store
+._*
